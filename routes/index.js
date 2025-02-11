@@ -10,7 +10,4 @@ router.use("/api",apiRoute);
 //http://localhost:3001/
 router.use("/",htmlRoute);
 
-
-
-
 module.exports=router;
